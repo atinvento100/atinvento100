@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![A T Rohit Surya's github stats](https://github-readme-stats.vercel.app/api?username=atinvento100&count_private=true&show_icons=true&theme=chartreuse-dark)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atinvento100&repo=atinvento100&theme=chartreuse-dark)
+
